@@ -5,7 +5,7 @@
 //  Created by GuJunBing on 2020/3/8.
 //
 
-import Foundation
+import CTMediator
 
 public extension CTMediator {
     @objc func goToCheckOutVC4Swift(_ callback:@escaping (String) -> Void,goodsId: String!,goodsName: String!) -> UIViewController? {

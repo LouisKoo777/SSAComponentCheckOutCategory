@@ -1,16 +1,23 @@
 PODS:
-  - SSAComponentCheckOutCategory (0.1.0)
+  - CTMediator (25)
+  - SSAComponentCheckOutCategory (0.0.1):
+    - CTMediator
 
 DEPENDENCIES:
   - SSAComponentCheckOutCategory (from `../`)
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+
 EXTERNAL SOURCES:
   SSAComponentCheckOutCategory:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SSAComponentCheckOutCategory: 6e5e490ee05fa1cb4e193b472a85abdcd45b9d75
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  SSAComponentCheckOutCategory: 086ad4f5331e8d0e4fff8f4937fcea14607d7701
 
-PODFILE CHECKSUM: b7f171cc1a935ca134a4d69d40c4d0cc7eb5cfef
+PODFILE CHECKSUM: a6f52603aac1a4fb7cc0ff884c9fbdb62251a420
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.9.0
