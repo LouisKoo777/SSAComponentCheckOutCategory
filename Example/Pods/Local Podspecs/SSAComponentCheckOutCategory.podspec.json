@@ -1,0 +1,22 @@
+{
+  "name": "SSAComponentCheckOutCategory",
+  "version": "0.1.0",
+  "summary": "A short description of SSAComponentCheckOutCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/junbing.gu@soprasteria.com/SSAComponentCheckOutCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "junbing.gu@soprasteria.com": "junbing.gu@soprasteria.com"
+  },
+  "source": {
+    "git": "https://github.com/junbing.gu@soprasteria.com/SSAComponentCheckOutCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSAComponentCheckOutCategory/Classes/**/*"
+}

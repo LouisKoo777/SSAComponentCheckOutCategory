@@ -1,0 +1,16 @@
+PODS:
+  - SSAComponentCheckOutCategory (0.1.0)
+
+DEPENDENCIES:
+  - SSAComponentCheckOutCategory (from `../`)
+
+EXTERNAL SOURCES:
+  SSAComponentCheckOutCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SSAComponentCheckOutCategory: 6e5e490ee05fa1cb4e193b472a85abdcd45b9d75
+
+PODFILE CHECKSUM: b7f171cc1a935ca134a4d69d40c4d0cc7eb5cfef
+
+COCOAPODS: 1.4.0
